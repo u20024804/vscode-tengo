@@ -24,7 +24,8 @@
                     "tengo"
                 ],
                 "extensions": [
-                    ".tengo"
+                    ".tengo",
+                    ".gct"
                 ],
                 "configuration": "./language-configuration.json"
             }
